@@ -27,21 +27,28 @@ install.packages("dplyr")
 Load the project in RStudio and run the analysis scripts provided to see the effects of different drug treatments on patient outcomes.
 
 # 5. Results
-**Acarbose**
+- **Acarbose**
 <img src="results/Acarbose.png" alt="alt text" width="800" height="400"/>
-**Acarbose + Glyrubide**
+
+- **Acarbose + Glyrubide**
 <img src="results/Acarbose + Glyrubide.png" alt="alt text" width="800" height="400"/>
-**Acarbose + Insulin**
+
+- **Acarbose + Insulin**
 <img src="results/Acarbose + Insulin.png" alt="alt text" width="800" height="400"/>
-**Acarbose + Metaformin**
+
+- **Acarbose + Metaformin**
 <img src="results/Acarbose + Metaformin.png" alt="alt text" width="800" height="400"/>
-**Acarbose + Pioglitazone**
+
+- **Acarbose + Pioglitazone**
 <img src="results/Acarbose + Pioglitazone.png" alt="alt text" width="800" height="400"/>
-**Acarbose + Rosiglitazone**
+
+- **Acarbose + Rosiglitazone**
 <img src="results/Acarbose + Rosiglitazone.png" alt="alt text" width="800" height="400"/>
-**Cox proportional fit for Acarbose**
+
+- **Cox proportional fit for Acarbose**
 <img src="results/Cox proportional fit for Acarbose.jpg" alt="alt text" width="800" height="400"/>
-**Survival analysis with classification for Acarbose.jpg**
+
+- **Survival analysis with classification for Acarbose.jpg**
 <img src="results/Survival analysis with classification for Acarbose.jpg" alt="alt text" width="800" height="400"/>
 
 
