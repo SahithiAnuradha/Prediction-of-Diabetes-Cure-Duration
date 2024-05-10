@@ -28,14 +28,13 @@ Load the project in RStudio and run the analysis scripts provided to see the eff
 
 # 5. Results
 <img src="results/Acarbose.png" alt="alt text" width="800" height="400"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
-<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose + Glyrubide.png" alt="alt text" width="800" height="400"/>
+<img src="results/Acarbose + Insulin.png" alt="alt text" width="800" height="400"/>
+<img src="results/Acarbose + Metaformin.png" alt="alt text" width="800" height="400"/>
+<img src="results/Acarbose + Pioglitazone.png" alt="alt text" width="800" height="400"/>
+<img src="results/Acarbose + Rosiglitazone.png" alt="alt text" width="800" height="400"/>
+<img src="results/Cox proportional fit for Acarbose.jpg" alt="alt text" width="800" height="400"/>
+<img src="results/Survival analysis with classification for Acarbose.jpg" alt="alt text" width="800" height="400"/>
 
 
 # 6. Conclusion
