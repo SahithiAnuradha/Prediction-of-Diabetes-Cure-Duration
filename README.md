@@ -27,7 +27,7 @@ install.packages("dplyr")
 Load the project in RStudio and run the analysis scripts provided to see the effects of different drug treatments on patient outcomes.
 
 # 5. Results
-<img src="results/Acarbose.png" alt="alt text" width="400"/>
+<img src="results/Acarbose.png" alt="alt text" width="800" height="400"/>
 <img src="results/Acarbose.png" alt="alt text" width="200"/>
 <img src="results/Acarbose.png" alt="alt text" width="200"/>
 <img src="results/Acarbose.png" alt="alt text" width="200"/>
