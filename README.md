@@ -26,9 +26,21 @@ install.packages("dplyr")
 # 4. Usage
 Load the project in RStudio and run the analysis scripts provided to see the effects of different drug treatments on patient outcomes.
 
-# 5. Conclusion
+# 5. Results
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+<img src="results/Acarbose.png" alt="alt text" width="200"/>
+
+
+# 6. Conclusion
 We check whether readmission is required or not and check the efficiency of survival analysis models and models combined with classification techniques like random forest method .The decision to obtain the process of survival analysis for patients with diabetes is a useful predictor of readmission rates which may prove valuable to reduce readmission rates and costs for the care of individuals with diabetes. The major diagnosis for patients is well known before readmission. The project can be much more efficient by using classification methods like Naive Bayes method or Kernel estimation.  
 
-# 5. Acknowledgments
+# 7. Acknowledgments
 Andhra University College of Engineering for providing the resources and support.
 Prof. Kuda Nageswara Rao for administrative support and guidance.
